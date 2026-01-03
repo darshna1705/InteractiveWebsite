@@ -241,8 +241,6 @@ export default function Home() {
               ]}
             />
           </div>
-
-          <div className="mt-10 text-center text-xs text-slate-600">Scroll ↓</div>
         </div>
       </section>
     </main>
