@@ -137,9 +137,7 @@ export default function Home() {
           </div>
 
           <div className="flex items-center gap-3">
-            <button className="rounded-xl bg-white px-4 py-2 text-sm font-semibold text-[#0b0f14] hover:bg-white/90">
-              Generate document
-            </button>
+
           </div>
         </div>
       </header>
